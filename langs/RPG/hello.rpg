@@ -1,0 +1,6 @@
+D* Hello World in RPG
+D main PR
+ /FREE
+   Dsply Hello, World!;
+   *INLR = *ON;
+ /END-FREE

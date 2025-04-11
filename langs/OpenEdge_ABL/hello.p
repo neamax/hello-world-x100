@@ -1,0 +1,1 @@
+MESSAGE "Hello, World!" VIEW-AS ALERT-BOX.
