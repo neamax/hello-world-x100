@@ -16,6 +16,7 @@ The `"Hello, World!"` program is often the first thing you write when learning a
 
 - 📁 100 folders (1 per language)
 - 📄 100 source files
+- 📄 Languages List file
 - 📘 1 clean, organised README (this one!)
 - 🏷️ Perfect for reference, education, fun, or showing off
 
