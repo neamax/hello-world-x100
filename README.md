@@ -154,7 +154,9 @@ This project is open source and licensed under the MIT License.
 ## 🙌 Contributions
 Spotted a missing language or want to add a twist? PRs are welcome!
 
-## 📣 Follow us 
-[Facebook @LuckyGene.net](https://www.facebook.com/luckygene.net) for more creative tech projects and open-source goodies.
-
-## Made with 💻 & ☕ in [LuckyGene Indie Studios](https://www.luckygene.net)
+> ---
+> *Developed by*
+> **Neama Kazemi**
+> at [LuckyGene Indie Studio](https://neama.luckygene.site/)
+> Email: [neama@luckygene.site](mailto:neama@luckygene.site)
+> ___
